@@ -1,5 +1,5 @@
 # ev3-autopilot
-Finds the shortest path between two arbitrary points on a maze and drives to it.
+Finds the shortest path between two arbitrary points on a two colored maze and drives to it.
 
 The custom design of the robot was built from the standard ev3 kit.
 
