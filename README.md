@@ -14,3 +14,8 @@ The custom design of the robot was built from the standard ev3 kit.
 Due to the motor encoders' lack of accuracy, the robot was built an infrared sensor mounted on a arm attached to a servo motor which allows the sensor to sweep 180 degrees around the front of the robot.
 
 This sensor is used by the movement functions to periodically scan for the line of the maze so that the robot's position can be calibrated at each move.
+
+## Demo
+
+### ev3 display (with simulated movements)
+![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/67180268/164121036-db5f5bda-ce4a-42ed-b8aa-51f0b73fa86f.gif)
