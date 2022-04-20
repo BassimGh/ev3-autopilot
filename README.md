@@ -19,3 +19,6 @@ This sensor is used by the movement functions to periodically scan for the line 
 
 ### ev3 display (with simulated movements)
 ![ezgif com-gif-maker-2](https://user-images.githubusercontent.com/67180268/164121036-db5f5bda-ce4a-42ed-b8aa-51f0b73fa86f.gif)
+
+### left turn demo
+![ezgif com-gif-maker-4](https://user-images.githubusercontent.com/67180268/164126090-e68f132d-d5b5-4828-9126-bde1a840384b.gif)
